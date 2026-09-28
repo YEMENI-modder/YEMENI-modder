@@ -14,8 +14,6 @@
 
 I'm **YEMENI**, a RE4 modder and Vibe Coder from Yemen.
 
-I'm Vibe Coder.
-
 I specialize in **Resident Evil 4 Ultimate HD Edition (2014)**, working with its binary file formats, building editors and tools, and creating complex mods.
 
 ---
