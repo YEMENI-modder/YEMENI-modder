@@ -4,7 +4,7 @@
 
 ### RE4 Modder · Vibe Coder
 
-![](https://komarev.com/ghpvc/?username=YEMENI-modder)
+![Visitor](https://komarev.com/ghpvc/?username=YEMENI-modder)
 
 </div>
 
