@@ -4,7 +4,7 @@
 
 ### RE4UHD Modder · Vibe Coder
 
-![Visitor](https://komarev.com/ghpvc/?username=YEMENI-modder)
+![Profile Views](https://viewcounter.live/YEMENI-modder)
 
 [![committers.top badge](https://user-badge.committers.top/yemen/YEMENI-modder.svg)](https://user-badge.committers.top/yemen/YEMENI-modder)
 
