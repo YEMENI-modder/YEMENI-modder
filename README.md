@@ -4,7 +4,7 @@
 
 ### RE4UHD Modder · Vibe Coder
 
-![Visitors]([https://count.getloli.com/get/@:YEMENI-modder](https://count.getloli.com/@YEMENI-modder?theme=kyun&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto))
+![Visitors]([https://count.getloli.com/get/@:YEMENI-modder](https://count.getloli.com/@YEMENI-modder?theme=kyun&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto)
 
 [![committers.top badge](https://user-badge.committers.top/yemen/YEMENI-modder.svg)](https://user-badge.committers.top/yemen/YEMENI-modder)
 
