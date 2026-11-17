@@ -4,7 +4,7 @@
 
 ### RE4UHD Modder · Vibe Coder
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YEMENI-modder.YEMENI-modder)
+![Visitors](https://count.getloli.com/get/@:YEMENI-modder)
 
 [![committers.top badge](https://user-badge.committers.top/yemen/YEMENI-modder.svg)](https://user-badge.committers.top/yemen/YEMENI-modder)
 
